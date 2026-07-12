@@ -11,7 +11,7 @@ Cross-modal super-resolution (SR) on real-world misaligned data is challenging, 
   
 <p align="center"> <img src="figs/fig1.png" width="80%"> </p>
 
-<p align="center"> <img src="figs/fig2.png" width="80%"> </p>
+<p align="center"> <img src="figs/fig2_model.png" width="80%"> </p>
 
 ## Citation
 ```
