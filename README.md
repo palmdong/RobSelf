@@ -24,4 +24,4 @@ Cross-modal super-resolution (SR) on real-world misaligned data is challenging, 
 ```
 
 ## Contact
-Xiaoyu Dong: dong@ms.k.u-tokyo.ac.jp
+Xiaoyu Dong at dong@ms.k.u-tokyo.ac.jp
