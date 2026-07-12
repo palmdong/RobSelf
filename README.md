@@ -21,4 +21,4 @@ contact (issues?)
 ```
 
 ## Contact
-dong@ms.k.u-tokyo.ac.jp
+Xiaoyu Dong: dong@ms.k.u-tokyo.ac.jp
