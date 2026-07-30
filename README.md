@@ -14,6 +14,7 @@ Cross-modal super-resolution (SR) on real-world misaligned data is challenging, 
 <p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
 
 ## Data
+To evaluate RobSelf, we collected real-world RGB-depth and RGB-NIR data with inherent cross-sensor misalignment, random viewpoint variation, and random object motion.  
 Our collected real-world data can be downloaded [here](...). Please cite our paper if you find the data useful.
 
 ## Citation
