@@ -8,9 +8,9 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 
 ## Overview
 
-<p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
-
 <p align="center"> <img src="figs/fig1.png" width="78%"> </p>
+
+<p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
 
 ## Code
 TODO.
