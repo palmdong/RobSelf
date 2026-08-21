@@ -1,6 +1,6 @@
 # RobSelf
 PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations"  
-[[arXiv](https://arxiv.org/abs/2602.18822), [supp](https://drive.google.com/file/d/1fqTYuSY7Qp7PFHiHViZs7y6lz6Bws7ws/view?usp=sharing)] [ECCV paper]
+[[arXiv](https://arxiv.org/abs/2602.18822), [supp](https://drive.google.com/file/d/1fqTYuSY7Qp7PFHiHViZs7y6lz6Bws7ws/view?usp=sharing)] [ECCV paper, [poster](https://drive.google.com/file/d/1NiM8oNDmvioGFCo6FFiQFEhbWS0-gezR/view?usp=sharing)]
 
 ## Updates
 **[2026/06/18]** Our paper was accepted to ECCV 2026. See you in Malmö, Sweden.  
