@@ -14,7 +14,7 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 <p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
 
 ## Code
-Download the RealMisSR dataset.  
+Download the RealMisSR dataset to `./data`.
 
 Environment:
 
