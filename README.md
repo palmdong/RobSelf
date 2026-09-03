@@ -26,8 +26,8 @@ source activate RobSelf
 Select the desired model variant in `model/network.py` by uncommenting its corresponding line:
 
 ```python
-self.align_extractor = AlignExtractorDeform(scale, n_channels=64) # RobSelf-de
-# self.align_extractor = AlignExtractorEfficient(scale, n_channels=64) # RobSelf-re
+self.align_extractor = AlignExtractorDeform(scale, n_channels=64) # RobSelf-de (better performance)
+# self.align_extractor = AlignExtractorEfficient(scale, n_channels=64) # RobSelf-re (higher efficiency)
 ```
 
 Run the optimization (inference) script:
