@@ -15,12 +15,14 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 
 ## Code
 Create and activate the Conda environment:
+
 ```
 conda env create -f robself.yml
 source activate RobSelf
 ```
 
 Run the optimization (inference) script:
+
 ```
 python infer_azure_depth.py
 ```
