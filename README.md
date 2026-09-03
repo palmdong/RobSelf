@@ -35,6 +35,7 @@ In `model/network.py`, enable the corresponding alignment extractor and comment 
 # RobSelf-DE
 self.align_extractor = AlignExtractorDeform(scale, n_channels=64)
 # self.align_extractor = AlignExtractorEfficient(scale, n_channels=64)
+```
 
 ## RealMisSR Dataset
 Our collected real-world misaligned data can be downloaded [here](https://drive.google.com/drive/folders/16gWaPR3mryYSdbAGomWXgK4KGdakFT-4?usp=drive_link). 
