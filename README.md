@@ -29,7 +29,7 @@ Run the optimization (inference) script:
 python infer_azure_depth.py
 ```
 
-**Note:** Specify RobSelf-de/RobSelf-re by enabling the following comment in `model/network.py`:
+**Note:** Select RobSelf-de or RobSelf-re in `model/network.py` by uncommenting the corresponding line:
 
 ```python
 self.align_extractor = AlignExtractorDeform(scale, n_channels=64) # RobSelf-de
