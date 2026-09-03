@@ -4,7 +4,8 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 
 ## Updates
 **[2026/06/18]** Our paper was accepted to ECCV 2026. See you in Malmö, Sweden.  
-**[2026/07/30]** Our collected real-world misaligned dataset (RealMisSR) has been uploaded.
+**[2026/07/30]** Our collected real-world misaligned dataset (RealMisSR) has been uploaded.  
+**[2026/09/03]** Code.  
 
 ## Overview
 
@@ -13,7 +14,7 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 <p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
 
 ## Code
-TODO.
+conda env create -f robself.yml
 
 ## RealMisSR Dataset
 Our collected real-world misaligned data can be downloaded [here](https://drive.google.com/drive/folders/16gWaPR3mryYSdbAGomWXgK4KGdakFT-4?usp=drive_link). 
