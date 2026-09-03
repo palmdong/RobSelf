@@ -14,14 +14,16 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 <p align="center"> <img src="figs/fig2_model.png" width="78%"> </p>
 
 ## Code
+Create and activate the Conda environment:
 ```
 conda env create -f robself.yml
+source activate RobSelf
 ```
 
+Run the optimization (inference) script:
 ```
 python infer_azure_depth.py
 ```
-
 
 ## RealMisSR Dataset
 Our collected real-world misaligned data can be downloaded [here](https://drive.google.com/drive/folders/16gWaPR3mryYSdbAGomWXgK4KGdakFT-4?usp=drive_link). 
