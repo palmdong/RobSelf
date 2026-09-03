@@ -18,6 +18,11 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 conda env create -f robself.yml
 ```
 
+```
+python infer_azure_depth.py
+```
+
+
 ## RealMisSR Dataset
 Our collected real-world misaligned data can be downloaded [here](https://drive.google.com/drive/folders/16gWaPR3mryYSdbAGomWXgK4KGdakFT-4?usp=drive_link). 
 - **RGB-depth subset:** 52 groups of simple cases with inherent cross-sensor misalignment; and 60 groups of complex cases with inherent cross-sensor misalignment and random viewpoint variation.
