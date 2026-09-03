@@ -29,12 +29,11 @@ Run the optimization (inference) script:
 python infer_azure_depth.py
 ```
 
-In `model/network.py`, enable the corresponding alignment extractor and comment out the other:
+**Note:** Specify RobSelf-de/RobSelf-re by enabling the following comment in `model/network.py`:
 
 ```python
-# RobSelf-DE
-self.align_extractor = AlignExtractorDeform(scale, n_channels=64)
-# self.align_extractor = AlignExtractorEfficient(scale, n_channels=64)
+self.align_extractor = AlignExtractorDeform(scale, n_channels=64) # RobSelf-de
+# self.align_extractor = AlignExtractorEfficient(scale, n_channels=64) # RobSelf-re
 ```
 
 ## RealMisSR Dataset
