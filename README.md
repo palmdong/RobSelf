@@ -4,7 +4,7 @@ PyTorch implementation of "Robust Self-Supervised Cross-Modal Super-Resolution a
 
 ## Updates
 **[2026/09/03]** The source code has been released.  
-**[2026/07/30]** Our real-world misaligned dataset, RealMisSR, is now available.
+**[2026/07/30]** Our real-world misaligned dataset, RealMisSR, is now available.  
 **[2026/06/18]** Our paper has been accepted to ECCV 2026. See you in Malmö, Sweden.  
 
 ## Overview
