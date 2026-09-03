@@ -23,17 +23,17 @@ conda env create -f robself.yml
 source activate RobSelf
 ```
 
-Run the optimization (inference) script:
-
-```bash
-python infer_azure_depth.py
-```
-
-**Note:** Select RobSelf-de or RobSelf-re in `model/network.py` by uncommenting the corresponding line:
+Select the desired model variant in `model/network.py` by uncommenting its corresponding line:
 
 ```python
 self.align_extractor = AlignExtractorDeform(scale, n_channels=64) # RobSelf-de
 # self.align_extractor = AlignExtractorEfficient(scale, n_channels=64) # RobSelf-re
+```
+
+Run the optimization (inference) script:
+
+```bash
+python infer_azure_depth.py
 ```
 
 ## RealMisSR Dataset
