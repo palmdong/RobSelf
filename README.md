@@ -18,14 +18,14 @@ Download the RealMisSR dataset to `./data`.
 
 Environment:
 
-```
+```bash
 conda env create -f robself.yml
 source activate RobSelf
 ```
 
 Run the optimization (inference) script:
 
-```
+```bash
 python infer_azure_depth.py
 ```
 
