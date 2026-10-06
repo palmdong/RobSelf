@@ -24,7 +24,7 @@ def main():
         "regress_fake": 1,
         "regress_pred": 1,
         "optim": "adam",
-        "lr": 0.001,
+        "lr": 0.002,
         "batch_size": 1,
         "epoch": 1000,
     }
